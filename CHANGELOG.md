@@ -8,6 +8,8 @@
   - Drops Rosetta requirement on Apple Silicon Macs
   - Note building from source will require Python 3.11 or newer and up-to-date Python modules
 - Update font handling code, fixing font issues on Yosemite and El Capitan
+- Fixes Bluetooth issues for HD 3000 Macs
+    - thanks [@jazzzny](https://github.com/jazzzny)
 - Increment Binaries:
   - OpenCorePkg 0.9.3 - release
   - Lilu 1.6.6 - release
@@ -16,7 +18,7 @@
   - FeatureUnlock 1.1.5 - release
   - DebugEnhancer 1.0.8 - release
   - CPUFriend 1.2.7 - release
-  - BlueToolFixup 2.6.8 - rolling (2305aaa)
+  - BlueToolFixup 2.6.8 - release
   - CryptexFixup 1.0.2 - release
   - PatcherSupportPkg 1.2.6 - release
 - Build Server Changes:
