@@ -1,6 +1,7 @@
 # OpenCore Legacy Patcher changelog
 
 ## 1.2.0
+- Resolves lack of support for Legacy Keyboard/Trackpad
 - Resolve application not existing if user dismisses an update instead of installing
 - Add support for detecting T1 Security Chips in DFU mode
 - Update non-Metal Binaries for macOS Sonoma:
