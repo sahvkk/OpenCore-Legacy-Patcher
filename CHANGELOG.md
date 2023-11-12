@@ -1,7 +1,7 @@
 # OpenCore Legacy Patcher changelog
 
 ## 1.3.0
-
+- Resolve keyboard and trackpad issue
 ## 1.2.1
 - Resolve `TeraScale 2 Acceleration` checkbox in Settings not being saved
   - Thanks @rtd1250
